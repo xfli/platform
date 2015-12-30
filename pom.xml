@@ -18,6 +18,7 @@
 		<module>module/platform-mongodb</module>
 		<module>module/platform-redis</module>
 		<module>module/platform-memcached</module>
+		<module>module/platform-power</module>
 	</modules>
 
 	<properties>
